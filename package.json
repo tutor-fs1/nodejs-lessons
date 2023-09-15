@@ -1,0 +1,20 @@
+{
+  "name": "1-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-lesson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "colors": "^1.4.0",
+    "commander": "^11.0.0",
+    "jimp": "^0.22.10",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.1"
+  }
+}
