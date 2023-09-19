@@ -4,7 +4,7 @@
   "description": "",
   "main": "1-lesson.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "asdfg": "nodemon 3-lesson-express.js"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
     "axios": "^1.5.0",
     "colors": "^1.4.0",
     "commander": "^11.0.0",
+    "express": "^4.18.2",
     "jimp": "^0.22.10",
     "nodemon": "^3.0.1",
     "uuid": "^9.0.1"
